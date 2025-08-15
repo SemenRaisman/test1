@@ -100,7 +100,7 @@ table {
 .tablee td:nth-child(2) {
    background-color: #1a1a1a;
    color: #fff;
-   
+   border-radius: 10px;
 }
 .tablee td:nth-child(1){
    background-color: #332828;
